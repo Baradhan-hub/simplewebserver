@@ -1,6 +1,7 @@
 # EX01 Developing a Simple Webserver
 ## Date:27-03-2025
-
+# REG NO:212224040045
+# NAME: Baradhan.L
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
 
